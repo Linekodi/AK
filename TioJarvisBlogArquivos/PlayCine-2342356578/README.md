@@ -15,9 +15,9 @@ Instruções para a adição no Gestor:
         <li></li>
     <li></li>
 
-                            # Para mais addons acesse: <a href="www.arquivoskodi.com.br">www.arquivoskodi.com.br</a>
-
   </ul>
+                               Para mais addons acesse: <a href="https://arquivoskodi.com.br">www.arquivoskodi.com.br</a>
+
 </p>
 
 ## Enjoy!
