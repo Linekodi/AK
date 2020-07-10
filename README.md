@@ -1,32 +1,21 @@
-# Covenant New Repository 
-## Current Version: Master
+# FLECHANEGRA REPOSITORY
+# Versão Actual: 1.4
 
-Instructions for adding this repo:
-
+Instruções para a adição deste repo:
 
 
 <p align="left">
   <ul>
-    <li>Go to the Kodi file manager.</li>
-    <li>Click on "Add source"</li>
-    <li>The path for the source is <code>https://linekodi.github.io/AK/</code> Give it the name "covenant".</li>
-    <li>Go to "Addons"</li>
-    <li>In Addons, install an addon from zip.  When it asks for the location, select "covenant Repo", and install <a href="repository.covenant-0.1.zip">repository.covenant-0.1.zip</a>.</li>
-    <li>Go back to Addons install, but this time, select "Install from repository"</li>
-    <li>Select the "repository.covenant-0.1.zip"</li>
-    <li>Go into the "Video add-ons" section in the repo, and you'll find covenant</li>
+    <li>Ir para o Kodi gestor de ficheiros.</li>
+    <li>Clicar em "Adicionar fonte"</li>
+    <li>O endereço para a fonte é <code>https://linekodi.github.io/AK/</code> (Dar o nome de "Flechanegra Repo").</li>
+    <li>Ir para "Addons"</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Flechanegra Repo", e instalar <a href="repository.flechanegra.zip">repository.flechanegra.zip</a>.</li>
+    <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
+    <li>Selecionar o "flechanegra Repository"</li>
+    
+                                       !!!Agora o resto fica á vossa escolha!!!
   </ul>
 </p>
 
-## @ Cy4Root
-
-
-
-
-
-
-
-
-
-
-
+## Enjoy!
