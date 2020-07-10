@@ -1,7 +1,7 @@
 # Playcine
 #  <a href="https://github.com/Linekodi/AK/raw/master/TioJarvisBlogArquivos/PlayCine-2342356578/plugin.video.PlayCine.zip">DOWNLOAD</a>
 
-Instruções para a adição nno Gestor:
+Instruções para a adição no Gestor:
 
 
 <p align="left">
@@ -15,7 +15,7 @@ Instruções para a adição nno Gestor:
         <li></li>
     <li></li>
 
-                                     # Para mais addons acesse: <a href="www.arquivoskodi.com.br">www.arquivoskodi.com.br</a>
+                            # Para mais addons acesse: <a href="www.arquivoskodi.com.br">www.arquivoskodi.com.br</a>
 
   </ul>
 </p>
