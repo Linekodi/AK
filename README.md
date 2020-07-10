@@ -9,7 +9,11 @@ Instructions for adding this repo:
   <ul>
     <li>Go to the Kodi file manager.</li>
     <li>Click on "Add source"</li>
+<<<<<<< HEAD
     <li>The path for the source is <code>https://linekodi.github.io/AK/</code> Give it the name "covenant".</li>
+=======
+    <li>The path for the source is <code>https://covenant01.github.io/zip/</code> Give it the name "covenant".</li>
+>>>>>>> 7a513849e017150d44e3256ae1605b7fb54794d8
     <li>Go to "Addons"</li>
     <li>In Addons, install an addon from zip.  When it asks for the location, select "covenant Repo", and install <a href="repository.covenant-0.1.zip">repository.covenant-0.1.zip</a>.</li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
