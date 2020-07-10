@@ -12,10 +12,10 @@ Instruções para a adição no Gestor:
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Playcine", e instalar <a href="plugin.video.PlayCine.zip">plugin.video.PlayCine.zip</a>.</li>
     <li>Addon instalado!</li>
-    
-                                                         Tio Jarvis:)
-
   </ul>
+  
+  
+  
                                Para mais addons acesse: <a href="https://arquivoskodi.com.br">www.arquivoskodi.com.br</a>
 
 </p>
