@@ -9,7 +9,7 @@ Instruções para a adição deste repo:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://linekodi.github.io/AK/TioJarvisBlogArquivos/PlayCine-2342356578</code> (Dar o nome de "PlayCine").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "PlayCine", e instalar <a href="plugin.video.PlayCine.zip">plugin.video.PlayCine.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "PlayCine", e instalar <a href="https://github.com/Linekodi/AK/blob/master/TioJarvisBlogArquivos/PlayCine-2342356578/plugin.video.PlayCine.zip">plugin.video.PlayCine.zip</a>.</li>
     -
     <li>Addon Instalado!</li>
     
