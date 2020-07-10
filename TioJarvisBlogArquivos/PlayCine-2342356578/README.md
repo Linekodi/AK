@@ -11,6 +11,8 @@ Instruções para a adição no Gestor:
     <li>O endereço para a fonte é <code>https://linekodi.github.io/AK/TioJarvisBlogArquivos/PlayCine-2342356578/</code> (Dar o nome de "Playcine").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Playcine", e instalar <a href="plugin.video.PlayCine.zip">plugin.video.PlayCine.zip</a>.</li>
+        <li></li>
+
     <li>Addon instalado!</li>
   </ul>
   
