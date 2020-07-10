@@ -1,5 +1,5 @@
 # Playcine
-# DOWNLOAD <a href="CLIQUE AQUI!">plugin.video.PlayCine.zip</a>
+#  <a href="plugin.video.PlayCine.zip">DOWNLOAD</a>
 
 Instruções para a adição nno Gestor:
 
