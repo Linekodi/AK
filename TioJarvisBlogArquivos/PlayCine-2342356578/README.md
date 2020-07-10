@@ -1,4 +1,4 @@
-# <a href="https://github.com/Linekodi/AK/raw/master/TioJarvisBlogArquivos/PlayCine-2342356578/plugin.video.PlayCine.zip">DOWNLOAD</a>
+# <a href="plugin.video.PlayCine.zip">DOWNLOAD</a>
 
 Instruções para a adição deste repo:
 
