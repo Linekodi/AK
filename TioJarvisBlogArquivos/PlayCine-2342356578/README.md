@@ -1,5 +1,5 @@
-# FLECHANEGRA REPOSITORY
-# Versão Actual: 1.4
+# Addon PlayCine
+# <a href="https://github.com/Linekodi/AK/raw/master/TioJarvisBlogArquivos/PlayCine-2342356578/plugin.video.PlayCine.zip">DOWNLOAD</a>
 
 Instruções para a adição deste repo:
 
@@ -8,14 +8,12 @@ Instruções para a adição deste repo:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://github.com/Linekodi/AK/tree/master/TioJarvisBlogArquivos/PlayCine-2342356578</code> (Dar o nome de "Flechanegra Repo").</li>
+    <li>O endereço para a fonte é <code>https://linekodi.github.io/AK/TioJarvisBlogArquivos/PlayCine-2342356578</code> (Dar o nome de "PlayCine").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Flechanegra Repo", e instalar <a href="plugin.video.PlayCine">plugin.video.PlayCine</a>.</li>
-    <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
-    <li>Selecionar o "flechanegra Repository"</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "PlayCine", e instalar <a href="plugin.video.PlayCine">plugin.video.PlayCine</a>.</li>
+    <li>Addon Instalado!</li>
     
-                                       !!!Agora o resto fica á vossa escolha!!!
+                                       !!!Acesse:<a href="https://arquivoskodi.com.br">www.arquivoskodi.com.br</a>!!!
   </ul>
 </p>
 
-## Enjoy!
