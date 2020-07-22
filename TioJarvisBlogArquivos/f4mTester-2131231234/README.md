@@ -1,6 +1,6 @@
 # <a href="plugin.video.f4mTester.zip">DOWNLOAD</a>
 
-Instruções para a adição deste repo:
+Instruções para a adiçãoarquivo:
 
 
 <p align="left">
