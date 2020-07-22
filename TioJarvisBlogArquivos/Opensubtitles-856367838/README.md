@@ -1,6 +1,6 @@
 # <a href="service.subtitles.opensubtitles_by_opensubtitles.zip">DOWNLOAD</a>
 
-Instruções para a adição deste repo:
+Instruções para a adiçãoarquivo:
 
 
 <p align="left">
