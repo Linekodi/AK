@@ -1,6 +1,6 @@
 # <a href="plugin.program.robinhood.zip">DOWNLOAD</a>
 
-Instruções para a adiçãoarquivo:
+Instruções para a adição no gestor:
 
 
 <p align="left">
