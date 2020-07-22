@@ -1,6 +1,6 @@
 # <a href="service.subtitles.opensubtitles_by_opensubtitles.zip">DOWNLOAD</a>
 
-Instruções para a adiçãoarquivo:
+Instruções para a adição no gestor:
 
 
 <p align="left">
