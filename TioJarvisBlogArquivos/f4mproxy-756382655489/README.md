@@ -1,6 +1,6 @@
 # <a href="script.video.F4mProxy.zip">DOWNLOAD</a>
 
-Instruções para a adição deste repo:
+Instruções para a adiçãoarquivo:
 
 
 <p align="left">
