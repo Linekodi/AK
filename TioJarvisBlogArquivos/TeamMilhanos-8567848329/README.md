@@ -1,6 +1,6 @@
 # <a href="plugin.video.team.milhanos.zip">DOWNLOAD</a>
 
-Instruções para a adiçãoarquivo:
+Instruções para a adição no gestor:
 
 
 <p align="left">
