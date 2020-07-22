@@ -1,6 +1,6 @@
 # <a href="repository.netflix.zip">DOWNLOAD</a>
 
-Instruções para a adiçãoarquivo:
+Instruções para a adição no gestor:
 
 
 <p align="left">
