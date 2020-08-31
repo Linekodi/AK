@@ -1,4 +1,4 @@
-# <a href="plugin.program.ArquivosKodi-Wizard.zip">DOWNLOAD</a>
+# <a href="plugin.program.ArquivosKodi-Wizard.zip">DOWNLOAD do zip</a>
 
 Instruções para a adição no gestor:
 
