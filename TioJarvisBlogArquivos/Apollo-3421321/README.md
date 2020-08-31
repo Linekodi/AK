@@ -1,4 +1,4 @@
-# <a href="plugin.video.apollo.zip">DOWNLOAD</a>
+# <a href="plugin.video.apollo.zip">DOWNLOAD do zip</a>
 
 Instruções para a adição no gestor:
 
