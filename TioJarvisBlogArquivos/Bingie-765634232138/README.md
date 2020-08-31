@@ -7,7 +7,7 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://linekodi.github.io/AK/TioJarvisBlogArquivos/Bingie-765634232138</code> (Dar o nome de "Bingie").</li>
+    <li>O endereço para a fonte é <code>https://tinyurl.com/Bingie-003</code> (Dar o nome de "Bingie").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Bingie", e instalar <a href="repository.bingie.zip">repository.bingie.zip</a>.</li>
     -
