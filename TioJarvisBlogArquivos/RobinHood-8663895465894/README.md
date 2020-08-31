@@ -1,4 +1,4 @@
-# <a href="plugin.program.robinhood.zip">DOWNLOAD</a>
+# <a href="plugin.program.robinhood.zip">DOWNLOAD do zip</a>
 
 Instruções para a adição no gestor:
 
@@ -7,7 +7,7 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://linekodi.github.io/AK/TioJarvisBlogArquivos/RobinHood-8663895465894</code> (Dar o nome de "Robinhood").</li>
+    <li>O endereço para a fonte é <code>https://tinyurl.com/RobinHood-019</code> (Dar o nome de "Robinhood").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Robinhood", e instalar <a href="plugin.program.robinhood.zip">plugin.program.robinhood.zip</a>.</li>
     -
