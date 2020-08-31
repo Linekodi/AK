@@ -1,4 +1,4 @@
-# <a href="plugin.video.faustinotv.zip">DOWNLOAD</a>
+# <a href="plugin.video.faustinotv.zip">DOWNLOAD do zip</a>
 
 Instruções para a adição no gestor:
 
@@ -7,7 +7,7 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://linekodi.github.io/AK/TioJarvisBlogArquivos/Faustino-3342132132</code> (Dar o nome de "Faustinotv").</li>
+    <li>O endereço para a fonte é <code>https://tinyurl.com/Faustino-009</code> (Dar o nome de "Faustinotv").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Faustinotv", e instalar <a href="plugin.video.faustinotv.zip">plugin.video.faustinotv.zip</a>.</li>
     -
