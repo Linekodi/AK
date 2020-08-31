@@ -1,4 +1,4 @@
-# <a href="script.video.F4mProxy.zip">DOWNLOAD</a>
+# <a href="script.video.F4mProxy.zip">DOWNLOAD do zip</a>
 
 Instruções para a adição no gestor:
 
@@ -7,7 +7,7 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://linekodi.github.io/AK/TioJarvisBlogArquivos/f4mproxy-756382655489</code> (Dar o nome de "F4mProxy").</li>
+    <li>O endereço para a fonte é <code>https://tinyurl.com/F4Mproxy-023</code> (Dar o nome de "F4mProxy").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "F4mProxy", e instalar <a href="script.video.F4mProxy.zip">script.video.F4mProxy.zip</a>.</li>
     -
