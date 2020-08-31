@@ -1,4 +1,4 @@
-# <a href="repository.Magnetic.zip">DOWNLOAD</a>
+# <a href="repository.Magnetic.zip">DOWNLOAD do zip</a>
 
 Instruções para a adição no gestor:
 
@@ -7,7 +7,7 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://linekodi.github.io/AK/TioJarvisBlogArquivos/Shadow-7823478</code> (Dar o nome de "Shadow").</li>
+    <li>O endereço para a fonte é <code>https://tinyurl.com/Shadow-020</code> (Dar o nome de "Shadow").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Shadow", e instalar <a href="repository.Magnetic.zip">repository.Magnetic.zip</a>.</li>
     -
