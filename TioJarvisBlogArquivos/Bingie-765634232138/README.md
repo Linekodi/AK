@@ -1,4 +1,4 @@
-# <a href="repository.bingie.zip">DOWNLOAD</a>
+# <a href="repository.bingie.zip">DOWNLOAD do zip</a>
 
 Instruções para a adição no gestor:
 
