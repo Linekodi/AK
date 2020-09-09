@@ -7,7 +7,7 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://tinyurl.com/AnimesPlay-001</code> (Dar o nome de "AnimesPlay").</li>
+    <li>O endereço para a fonte é <code>https://tinyurl.com/AnimesPlay-025</code> (Dar o nome de "AnimesPlay").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "AnimesPlay", e instalar <a href="plugin.video.AnimesPlay.zip">plugin.video.AnimesPlay.zip</a>.</li>
     -
