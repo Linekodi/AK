@@ -7,7 +7,7 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://tinyurl.com/GaviaoPlayer-0723</code> (Dar o nome de "Gaviao Player").</li>
+    <li>O endereço para a fonte é <code>https://tinyurl.com/GaviaoPlayer-72</code> (Dar o nome de "Gaviao Player").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Gaviao Player", e instalar <a href="plugin.video.Gaviao-Player.zip">plugin.video.Gaviao-Player.zip</a>.</li>
     -
