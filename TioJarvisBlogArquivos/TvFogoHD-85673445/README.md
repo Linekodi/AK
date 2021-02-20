@@ -1,4 +1,4 @@
-# <a href="plugin.video.firehd.zip">DOWNLOAD do zip</a>
+# <a href="plugin.video.TV-FOGO-Official.zip">DOWNLOAD do zip</a>
 
 Instruções para a adição no gestor:
 
@@ -9,7 +9,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/TVFogoHD-026</code> (Dar o nome de "TVFogoHD").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "TVFogoHD", e instalar <a href="plugin.video.firehd.zip">plugin.video.firehd.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "TVFogoHD", e instalar <a href="plugin.video.TV-FOGO-Official.zip">plugin.video.TV-FOGO-Official.zip</a>.</li>
     -
     <li>Addon Instalado!</li>
     
