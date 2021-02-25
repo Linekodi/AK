@@ -11,7 +11,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/Mico-Leao-045</code> (Dar o nome de "Mico-Leao").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Mico-Leao", e instalar <a href="plugin.video.Mico-Leao.zip">plugin.video.Mico-Leao.zip</a> ou <a href="plugin.video.micoleaodublado.matrix.zip">plugin.video.Mico-Leao.Matrix.zip</a></li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Mico-Leao", e instalar <a href="plugin.video.micoleaodublado.matrix.zip">plugin.video.micoleaodublado.matrix.zip</a>.</li>
     -
     <li>Addon Instalado!</li>
     
