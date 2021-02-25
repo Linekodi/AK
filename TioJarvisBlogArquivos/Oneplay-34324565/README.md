@@ -1,4 +1,6 @@
-# <a href="One.repo.zip">DOWNLOAD do zip</a>
+# <a href="One.repo.zip">DOWNLOAD do zip - KODI V18</a>
+# <a href="plugin.video.OnePlay.Matrix.zip">DOWNLOAD do zip - KODI V19</a>
+
 
 Instruções para a adição no gestor:
 
@@ -9,7 +11,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/Oneplay-014</code> (Dar o nome de "OnePlay").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "OnePlay", e instalar <a href="One.repo.zip">One.repo.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "OnePlay", e instalar <a href="One.repo.zip">One.repo.zip</a> / <a href="plugin.video.OnePlay.Matrix.zip">plugin.video.OnePlay.Matrix.zip</a>.</li>
     -
     <li>Repositorio Instalado!</li>
     
