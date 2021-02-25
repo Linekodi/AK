@@ -1,5 +1,5 @@
-# <a href="plugin.video.Mico-Leao.zip">DOWNLOAD do zip V18</a>
-# <a href="plugin.video.micoleaodublado.matrix.zip">DOWNLOAD do zip V19</a>
+# <a href="plugin.video.Mico-Leao.zip">DOWNLOAD do zip - KODI V18</a>
+# <a href="plugin.video.micoleaodublado.matrix.zip">DOWNLOAD do zip - KODI V19</a>
 
 
 Instruções para a adição no gestor:
