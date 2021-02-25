@@ -1,4 +1,6 @@
-# <a href="plugin.video.PlayCine.zip">DOWNLOAD do zip</a>
+# <a href="plugin.video.PlayCine.zip">DOWNLOAD do zip - KODI V18</a>
+# <a href="plugin.video.PlayCine.Matrix.zip">DOWNLOAD do zip - KODI V19</a>
+
 
 Instruções para a adição no gestor:
 
@@ -9,7 +11,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/PlayCine-017</code> (Dar o nome de "PlayCine").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "PlayCine", e instalar <a href="plugin.video.PlayCine.zip">plugin.video.PlayCine.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "PlayCine", e instalar <a href="plugin.video.PlayCine.zip">plugin.video.PlayCine.zip</a> / <a href="plugin.video.PlayCine.Matrix.zip">plugin.video.PlayCine.Matrix.zip</a>.</li>
     -
     <li>Addon Instalado!</li>
     
