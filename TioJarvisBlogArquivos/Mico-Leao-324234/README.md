@@ -16,6 +16,8 @@ Instruções para a adição no gestor:
     <li>Addon Instalado!</li>
     
 </ul>
+<a href="plugin.video.Mico-Leao.zip">Para kodi 18</a>
+<a href="plugin.video.micoleaodublado.matrix.zip">Para kodi 19</a>
 
                                        !!Acesse:<a href="https://arquivoskodi.com.br">www.arquivoskodi.com.br</a>!!
                                        
