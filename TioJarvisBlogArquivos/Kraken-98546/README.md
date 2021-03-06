@@ -11,7 +11,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/Kraken-116</code> (Dar o nome de "Kraken").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Kraken", e instalar <a href="plugin.video.Kraken-KODI-18.zip">plugin.video.Kraken-KODI-18.zip</a> / <a href="plugin.video.Kraken.KODI-19.zip">plugin.video.Kraken.KODI-19.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Kraken", e instalar <a href="plugin.video.Kraken-KODI-18.zip">plugin.video.Kraken-KODI-18.zip</a> / <a href="plugin.video.Kraken-KODI-19.zip">plugin.video.Kraken-KODI-19.zip</a>.</li>
     -
     <li>Addon Instalado!</li>
     
