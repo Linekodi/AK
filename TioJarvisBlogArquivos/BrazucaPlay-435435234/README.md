@@ -11,7 +11,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/BrazucaPlay-025</code> (Dar o nome de "BrazucaPlay").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "BrazucaPlay", e instalar <a href="repository.BrazucaPlay.zip">repository.BrazucaPlay.zip</a> / <a href="plugin.video.BrazucaPlay.Matrix.zipplugin.video.BrazucaPlay.Matrix.zip">plugin.video.BrazucaPlay.Matrix.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "BrazucaPlay", e instalar <a href="repository.BrazucaPlay.zip">repository.BrazucaPlay.zip</a> / <a href="plugin.video.BrazucaPlay.Matrix.zip">plugin.video.BrazucaPlay.Matrix.zip</a>.</li>
     -
     <li>Repositorio Instalado!</li>
     
