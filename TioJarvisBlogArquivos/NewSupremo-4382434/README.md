@@ -16,7 +16,7 @@ Instruções para a adição no gestor:
     
 </ul>
 
-                                       !!!Acesse:<a href="https://arquivoskodi.com.br">www.arquivoskodi.com.br</a>!!!
+                                       !!Acesse:<a href="https://arquivoskodi.com.br">www.arquivoskodi.com.br</a>!!!
                                        
 
 </p>
