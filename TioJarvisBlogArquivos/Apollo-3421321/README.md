@@ -11,7 +11,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/Apollo-001</code> (Dar o nome de "Apollo").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Apollo", e instalar <a href="plugin.video.apollo-KODI-18.zip">plugin.video.apollo-KODI-18.zip</a> / <a href="plugin.video.apollo-KODI-19.zip">plugin.video.apollo-KODI-19plugin.video.apollo-KODI-19.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Apollo", e instalar <a href="plugin.video.apollo-KODI-18.zip">plugin.video.apollo-KODI-18.zip</a> / <a href="plugin.video.apollo-KODI-19.zip">plugin.video.apollo-KODI-19.zip</a>.</li>
     -
     <li>Addon Instalado!</li>
     
