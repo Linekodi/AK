@@ -9,7 +9,7 @@ Instruções para a adição no gestor:
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Elementum( para seu dispositivo)", e instala </li>
     -
-    <li>Pronto, addon Elementum Instalado!</li>
+    <li>Pronto, Elementum Instalado!</li>
 -
 -
 -
