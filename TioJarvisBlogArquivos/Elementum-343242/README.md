@@ -31,28 +31,6 @@ Instruções para a adição no gestor:
 
 
 
-<p align="left">
-  <ul>
-        <li> 
-	 <a href="Para Windows">Para Windows</a>		
-	 <a href="Elementum-__Universal.zip">Elementum-__Universal.zip</a>
-	 <a href="Elementum-__Windows_x86.zip">Elementum-__Windows_x86.zip</a>
-	 <a href="Elementum-__Windows_x86.zip">Elementum-__Windows_x86.zip</a>
-	 <a href="Elementum-__Android_x64.zip">Elementum-__Android_x64.zip</a>
-	 <a href="Elementum-__Android_x86.zip">Elementum-__Android_x86.zip</a>
-	 <a href="Elementum-__Android_arm64.zip">Elementum-__Android_arm64.zip</a>
-	 <a href="Elementum-__Android_arm.zip">Elementum-__Android_arm.zip</a>
-	 <a href="Elementum-__Linux_x64.zip">Elementum-__Linux_x64.zip</a>
-	 <a href="Elementum-__Linux_x86.zip">Elementum-__Linux_x86.zip</a>
-	 <a href="Elementum-__Linux_arm64.zip">Elementum-__Linux_arm64.zip</a>
-	 <a href="Elementum-__Linux_armv6.zip">Elementum-__Linux_armv6.zip</a>
-	 <a href="Elementum-__Linux_armv7.zip">Elementum-__Linux_armv7.zip</a>
-	 <a href="Elementum-__OSx_x64.zip">Elementum-__OSx_x64.zip</a>
-	 <a href="script.BURST.zip">script.BURST.zip</a>
-   -
-    <li>Addon Instalado!</li>
-    
-</ul>
 
 
 
