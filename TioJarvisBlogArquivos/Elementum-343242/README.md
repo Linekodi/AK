@@ -18,7 +18,7 @@ Instruções para a adição no gestor:
 
 <p align="left">
   <ul>
-    <li> <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/script.BURST.zip">https://arquivoskodi.com.br/Addons/Elementum-343242/script.BURST.zip</a>
+    <li> <a href="script.BURST.zip">https://arquivoskodi.com.br/Addons/Elementum-343242/script.BURST.zip</a>
 	 <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Universal.zip">https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Universal.zip</a>
 	 <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Windows_x86.zip">https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Windows_x86.zip</a>
 	 <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Windows_x86.zip">https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Windows_x86.zip</a>
