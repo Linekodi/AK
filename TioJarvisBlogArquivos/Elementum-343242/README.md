@@ -18,11 +18,11 @@ Instruções para a adição no gestor:
 # <a href="https://tinyurl.com/Elementum--Android-x64">Elementum para Android_x64</a>
 # <a href="https://tinyurl.com/Elementum--Android-x86">Elementum para Android_x86</a>
 # <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Android_arm64.zip">Elementum para Android_arm64</a>
-# <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Android_arm.zip">Elementum para  para  para  para  para  para Android_arm</a>
-# <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Linux_x64.zip">Elementum para  para  para  para  para Linux_x64</a>
-# <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Linux_x86.zip">Elementum para  para  para  para Linux_x86</a>
-# <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Linux_arm64.zip">Elementum para  para  para Linux_arm64</a>
-# <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Linux_armv6.zip">Elementum para  para Linux_armv6</a>
+# <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Android_arm.zip">Elementum para Android_arm</a>
+# <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Linux_x64.zip">Elementum para Linux_x64</a>
+# <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Linux_x86.zip">Elementum para Linux_x86</a>
+# <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Linux_arm64.zip">Elementum para  Linux_arm64</a>
+# <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Linux_armv6.zip">Elementum para  Linux_armv6</a>
 # <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Linux_armv7.zip">Elementum para Linux_armv7</a>
 # <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__OSx_x64.zip">Elementum para OSx_x64</a>
 # <a href="https://tinyurl.com/script-BURST">script.BURST</a>
