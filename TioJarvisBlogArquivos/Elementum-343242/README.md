@@ -32,9 +32,9 @@ Instruções para a adição no gestor:
   <ul>
         <li> 
 	 <a href="Para-Windows">Para-Windows</a>		
-	 <a href="Elementum-__Universal.zip">Elementum-__Universal.zip</a>
+	 <a href="repository.elementum.zip">repository.elementum.zip</a>
 	 <a href="Elementum-__Windows_x64.zip">Elementum-__Windows_x64.zip</a>
-	 <a href="https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.74/plugin.video.elementum-0.1.74.windows_x86.zip">plugin.video.elementum-0.1.74.windows_x86.zip</a>
+	 <a href="Elementum-__Windows_x86">Elementum-__Windows_x86</a>
 	 <a href="Elementum-__Android_x64.zip">Elementum-__Android_x64.zip</a>
 	 <a href="Elementum-__Android_x86.zip">Elementum-__Android_x86.zip</a>
 	 <a href="Elementum-__Android_arm64.zip">Elementum-__Android_arm64.zip</a>
