@@ -50,22 +50,8 @@ Instruções para a adição no gestor:
    -
     <li>Addon Instalado!</li>
     
-</ul>
 
-
-
-
-
-
-
-
-    
-</ul>
 
                                        !!!Acesse:<a href="https://arquivoskodi.com.br">www.arquivoskodi.com.br</a>!!!
                                        
 
-</p>
-                                       
-
-</p>
