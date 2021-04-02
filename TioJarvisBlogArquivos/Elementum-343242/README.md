@@ -1,23 +1,3 @@
-Instruções para a adição no gestor:
-
-
-<p align="left">
-  <ul>
-    <li>Ir para o Kodi gestor de ficheiros.</li>
-    <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://tinyurl.com/Elementum-AK</code> (Dar o nome de "Elementum").</li>
-    <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Elementum( para seu dispositivo)", e instala </li>
-    -
-    <li>Pronto, Elementum Instalado!</li>
--
--
--
--   
--
--
--
-	  
 # <a href="script.BURST.zip">DOWNLOAD do zip - script.BURST</a>
 # <a href="repository.elementum.zip">DOWNLOAD do zip - Elementum-__repository</a>
 # <a href="Elementum-__Windows_x86.zip">DOWNLOAD do zip - Elementum-__Windows_x64</a>
@@ -32,17 +12,22 @@ Instruções para a adição no gestor:
 # <a href="Elementum-__Linux_armv6.zip">DOWNLOAD do zip - Elementum-__Linux_armv6</a>
 # <a href="Elementum-__Linux_armv7.zip">DOWNLOAD do zip - Elementum-__Linux_armv7</a>
 # <a href="Elementum-__OSx_x64.zip">DOWNLOAD do zip - Elementum-__OSx_x64</a>	  
--
--
--   
--
--    
--
--
--
--   
--
--
+
+----------------------------------------------------------------------------------------------------
+
+Instruções para a adição no gestor:
+
+
+<p align="left">
+  <ul>
+    <li>Ir para o Kodi gestor de ficheiros.</li>
+    <li>Clicar em "Adicionar fonte"</li>
+    <li>O endereço para a fonte é <code>https://tinyurl.com/Elementum-AK</code> (Dar o nome de "Elementum").</li>
+    <li>Ir para "Addons"</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Elementum( para seu dispositivo)", e instala </li>
+    -
+    <li>Pronto, Elementum Instalado!</li>
+----------------------------------------------------------------------------------------------------
 <p align="left">
   <ul>
         <li> 
