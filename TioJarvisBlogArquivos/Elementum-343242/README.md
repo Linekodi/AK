@@ -1,17 +1,17 @@
-# <a href="script.BURST.zip">DOWNLOAD do zip - script.BURST</a>
-# <a href="repository.elementum.zip">DOWNLOAD do zip - Elementum-__repository</a>
-# <a href="Elementum-__Windows_x86.zip">DOWNLOAD do zip - Elementum-__Windows_x64</a>
-# <a href="Elementum-__Windows_x86.zip">DOWNLOAD do zip - Elementum-__Windows_x86</a>
-# <a href="Elementum-__Android_x64.zip">DOWNLOAD do zip - Elementum-__Android_x64</a>
-# <a href="Elementum-__Android_x86.zip">DOWNLOAD do zip - Elementum-__Android_x86</a>
-# <a href="Elementum-__Android_arm64.zip">DOWNLOAD do zip - Elementum-__Android_arm64</a>
-# <a href="Elementum-__Android_arm.zip">DOWNLOAD do zip - Elementum-__Android_arm</a>
-# <a href="Elementum-__Linux_x64.zip">DOWNLOAD do zip - Elementum-__Linux_x64</a>
-# <a href="Elementum-__Linux_x86.zip">DOWNLOAD do zip - Elementum-__Linux_x86</a>
-# <a href="Elementum-__Linux_arm64.zip">DOWNLOAD do zip - Elementum-__Linux_arm64</a>
-# <a href="Elementum-__Linux_armv6.zip">DOWNLOAD do zip - Elementum-__Linux_armv6</a>
-# <a href="Elementum-__Linux_armv7.zip">DOWNLOAD do zip - Elementum-__Linux_armv7</a>
-# <a href="Elementum-__OSx_x64.zip">DOWNLOAD do zip - Elementum-__OSx_x64</a>	  
+# <a href="script.BURST.zip">script--BURST</a>
+# <a href="repository.elementum.zip">repository Elementum</a>
+# <a href="Elementum-__Windows_x86.zip">Elementum--Windows_x64</a>
+# <a href="Elementum-__Windows_x86.zip">Elementum--Windows_x86</a>
+# <a href="Elementum-__Android_x64.zip">Elementum--Android_x64</a>
+# <a href="Elementum-__Android_x86.zip">Elementum--Android_x86</a>
+# <a href="Elementum-__Android_arm64.zip">Elementum--Android_arm64</a>
+# <a href="Elementum-__Android_arm.zip">Elementum--Android_arm</a>
+# <a href="Elementum-__Linux_x64.zip">Elementum--Linux_x64</a>
+# <a href="Elementum-__Linux_x86.zip">Elementum--Linux_x86</a>
+# <a href="Elementum-__Linux_arm64.zip">Elementum--Linux_arm64</a>
+# <a href="Elementum-__Linux_armv6.zip">Elementum--Linux_armv6</a>
+# <a href="Elementum-__Linux_armv7.zip">Elementum--Linux_armv7</a>
+# <a href="Elementum-__OSx_x64.zip">Elementum--OSx_x64</a>	  
 
 ----------------------------------------------------------------------------------------------------
 
