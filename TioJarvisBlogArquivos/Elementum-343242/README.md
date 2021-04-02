@@ -31,9 +31,9 @@ Instruções para a adição no gestor:
 <p align="left">
   <ul>
         <li> 
-	 <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Para Windows">https://arquivoskodi.com.br/Addons/Elementum-343242/Para Windows</a>		
+	 <a href="Para-Windows">Para-Windows</a>		
 	 <a href="Elementum-__Universal.zip">Elementum-__Universal.zip</a>
-	 <a href="Elementum-__Windows_x64.zip">https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Windows_x64.zip</a>
+	 <a href="Elementum-__Windows_x64.zip">Elementum-__Windows_x64.zip</a>
 	 <a href="Elementum-__Windows_x86.zip">Elementum-__Windows_x86.zip</a>
 	 <a href="Elementum-__Android_x64.zip">Elementum-__Android_x64.zip</a>
 	 <a href="Elementum-__Android_x86.zip">Elementum-__Android_x86.zip</a>
