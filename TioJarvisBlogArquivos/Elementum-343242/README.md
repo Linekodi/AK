@@ -13,7 +13,7 @@
 # <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__Linux_armv7.zip">Elementum-__Linux_armv7</a>
 # <a href="https://arquivoskodi.com.br/Addons/Elementum-343242/Elementum-__OSx_x64.zip">Elementum-__OSx_x64</a>
 
-Instruções para a adição no gestor:
+
 
 
 <p align="left">
