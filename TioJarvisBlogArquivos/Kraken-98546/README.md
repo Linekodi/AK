@@ -1,5 +1,5 @@
 # <a href="plugin.video.Kraken-KODI-18.zip">DOWNLOAD do zip - KODI V18</a>
-# <a href="plugin.video.Kraken.KODI-19.zip">DOWNLOAD do zip - KODI V19</a>
+# <a href="plugin.video.Kraken-KODI-19.zip">DOWNLOAD do zip - KODI V19</a>
 
 
 Instruções para a adição no gestor:
