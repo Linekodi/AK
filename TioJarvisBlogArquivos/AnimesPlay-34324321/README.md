@@ -18,7 +18,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/AnimesPlay-025</code> (Dar o nome de "AnimesPlay").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "AnimesPlay", e instalar <a href="plugin.video.AnimesPlay-KODI-18.zip">plugin.video.AnimesPlay-KODI-18.zip</a> / <a href="plugin.video.AnimesPlay-KODI-19.zip">plugin.video.AnimesPlay-KODI-19.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "AnimesPlay", e instalar "plugin.video.AnimesPlay-KODI-.zip".</li>
     -
     <li>Addon Instalado!</li>
     
