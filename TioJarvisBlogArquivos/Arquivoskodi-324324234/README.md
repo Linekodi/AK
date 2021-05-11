@@ -9,8 +9,7 @@
 </body></html>
 
 
-# <a href="ArquivosKodi-Wizard-(KODI-18).zip">DOWNLOAD do zip - KODI V18</a>
-# <a href="ArquivosKodi-Wizard-(KODI-19).zip">DOWNLOAD do zip - KODI V19</a>
+
 
 
 Instruções para a adição no gestor:
