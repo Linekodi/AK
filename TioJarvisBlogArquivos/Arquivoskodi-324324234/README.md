@@ -21,7 +21,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/Wizard-AK-01</code> (Dar o nome de "Wizard-AK").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Wizard-AK", e instalar <a href="ArquivosKodi-Wizard-(KODI-18).zip">ArquivosKodi-Wizard-(KODI-18).zip</a> / <a href="ArquivosKodi-Wizard-(KODI-19).zip">ArquivosKodi-Wizard-(KODI-19).zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Wizard-AK", e instalar "ArquivosKodi-Wizard.zip"</li>
     -
     <li>Addon Instalado!</li>
     
