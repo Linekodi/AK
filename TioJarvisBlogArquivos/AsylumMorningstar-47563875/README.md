@@ -17,7 +17,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/Asylum-Morningstar-134</code> (Dar o nome de "Asylum Morningstar").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Asylum Morningstar", e instalar <a href="plugin.video.AsylumMorningstar.matrix.zip">plugin.video.AsylumMorningstar.matrix.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Asylum Morningstar", e instalar "plugin.video.AsylumMorningstar.zip"</li>
     -
     <li>Addon Instalado!</li>
     
