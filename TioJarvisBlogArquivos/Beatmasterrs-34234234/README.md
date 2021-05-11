@@ -18,7 +18,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/Beatmasterrs-120</code> (Dar o nome de "Beatmasterrs").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Beatmasterrs", e instalar <a href="repository.Beatmasterrs-KODI-18.zip">repository.Beatmasterrs-KODI-18.zip</a> / <a href="repository.Beatmasterrs-KODI-19.zip">repository.Beatmasterrs-KODI-19.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Beatmasterrs", e instalar "repository.Beatmasterrs-KODI-.zip"</li>
     -
     <li>Addon Instalado!</li>
     
