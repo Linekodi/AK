@@ -1,5 +1,12 @@
-# <a href="repository.Beatmasterrs-KODI-18.zip">DOWNLOAD do zip - KODI V18</a>
-# <a href="repository.Beatmasterrs-KODI-19.zip">DOWNLOAD do zip - KODI V19</a>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>ARQUIVOSKODI</title></head>
+<body bgcolor="white">
+<h1>ARQUIVOSKODI</h1><hr>
+<a href="repository.Beatmasterrs-KODI-18.zip">repository.Beatmasterrs-KODI-18.zip</a>
+<br>
+<a href="repository.Beatmasterrs-KODI-19.zip">repository.Beatmasterrs-KODI-19.zip</a>
+<hr>
+
+</body></html>
 
 
 Instruções para a adição no gestor:
