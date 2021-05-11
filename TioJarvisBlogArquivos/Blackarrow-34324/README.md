@@ -19,7 +19,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/Blackarrow-131</code> (Dar o nome de "Blackarrow").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Blackarrow", e instalar "repository.Flechanegra-KODI-.zip"</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Blackarrow", e instalar "repository.Blackarrow-KODI-.zip"</li>
     -
     <li>Addon Instalado!</li>
     
