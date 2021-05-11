@@ -1,5 +1,12 @@
-# <a href="plugin.video.BlurayPlay-KODI-18.zip">DOWNLOAD do zip - KODI V18</a>
-# <a href="plugin.video.BlurayPlay-KODI-19.zip">DOWNLOAD do zip - KODI V19</a>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>ARQUIVOSKODI</title></head>
+<body bgcolor="white">
+<h1>ARQUIVOSKODI</h1><hr>
+<a href="plugin.video.BlurayPlay-KODI-18.zip">plugin.video.BlurayPlay-KODI-18.zip</a>
+<br>
+<a href="plugin.video.BlurayPlay-KODI-19.zip">plugin.video.BlurayPlay-KODI-19.zip</a>
+<hr>
+
+</body></html>
 
 
 Instruções para a adição no gestor:
@@ -11,7 +18,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/BlurayPlay-121</code> (Dar o nome de "BlurayPlay").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "BlurayPlay", e instalar <a href="plugin.video.BlurayPlay-KODI-18.zip">plugin.video.BlurayPlay-KODI-18.zip</a> / <a href="plugin.video.BlurayPlay-KODI-19.zip">plugin.video.BlurayPlay-KODI-19.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "BlurayPlay", e instalar "plugin.video.BlurayPlay-KODI-.zip".</li>
     -
     <li>Addon Instalado!</li>
     
