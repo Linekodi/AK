@@ -17,7 +17,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/Asgard-002</code> (Dar o nome de "Asgard").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Asgard", e instalar <a href="repository.NarcacistWizard.zip">repository.NarcacistWizard.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Asgard", e instalar "repository.NarcacistWizard.zip".</li>
     -
     <li>Addon Instalado!</li>
     
