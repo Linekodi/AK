@@ -1,4 +1,12 @@
-# <a href="script.video.F4mProxy.zip">DOWNLOAD do zip</a>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>ARQUIVOSKODI</title></head>
+<body bgcolor="white">
+<h1>ARQUIVOSKODI</h1><hr>
+<a href="script.video.F4mProxy.zip">script.video.F4mProxy.zip</a>
+<br>
+<hr>
+
+</body></html>
+
 
 Instruções para a adição no gestor:
 
@@ -9,7 +17,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/F4Mproxy-023</code> (Dar o nome de "F4mProxy").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "F4mProxy", e instalar <a href="script.video.F4mProxy.zip">script.video.F4mProxy.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "F4mProxy", e instalar "script.video.F4mProxy.zip"</li>
     -
     <li>Addon Instalado!</li>
     
