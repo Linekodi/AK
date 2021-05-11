@@ -3,7 +3,6 @@
 <h1>ARQUIVOSKODI</h1><hr>
 <a href="plugin.video.tubed.zip">plugin.video.tubed.zip</a>
 <br>
-<a href="plugin.video.tubed.zip">plugin.video.tubed.zip</a>
 <hr>
 
 </body></html>
