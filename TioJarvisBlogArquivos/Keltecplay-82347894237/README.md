@@ -1,4 +1,12 @@
-# <a href="KeltecMP.repository.zip">DOWNLOAD do zip</a>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>ARQUIVOSKODI</title></head>
+<body bgcolor="white">
+<h1>ARQUIVOSKODI</h1><hr>
+<a href="KeltecMP.repository.zip">KeltecMP.repository.zip</a>
+<br>
+<hr>
+
+</body></html>
+
 
 Instruções para a adição no gestor:
 
@@ -9,7 +17,7 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/Keltec-010</code> (Dar o nome de "KeltecMP").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "KeltecMP", e instalar <a href="KeltecMP.repository.zip">KeltecMP.repository.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "KeltecMP", e instalar "KeltecMP.repository.zip"</li>
     -
     <li>Addon Instalado!</li>
     
