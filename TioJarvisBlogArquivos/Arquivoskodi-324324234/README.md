@@ -7,7 +7,7 @@
 
 Instruções para a adição no gestor:
 
-
+<hr>
 <p align="left">
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
@@ -19,7 +19,7 @@ Instruções para a adição no gestor:
     <li>Addon Instalado!</li>
     
 </ul>
-
+<hr>
                                        !!!Acesse:<a href="https://arquivoskodi.com.br">www.arquivoskodi.com.br</a>!!
                                        
 
