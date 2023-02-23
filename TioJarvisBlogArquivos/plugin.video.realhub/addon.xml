@@ -1,0 +1,19 @@
+<addon id="plugin.video.realhub" name="Realhub" version="1.0.0" provider-name="Seu nome aqui" summary="Addon para o Kodi que raspa o site https://vizer.tv/">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <metadata>
+    <name>Realhub</name>
+    <summary>Addon para o Kodi que raspa o site https://vizer.tv/</summary>
+    <description>Realhub é um addon para o Kodi que permite ao usuário assistir a uma variedade de conteúdos do site https://vizer.tv/.</description>
+    <platform>all</platform>
+    <language>pt</language>
+  </metadata>
+  <resources>
+    <include>icon.png</include>
+    <include>fanart.jpg</include>
+  </resources>
+</addon>
