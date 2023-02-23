@@ -2,7 +2,9 @@
 import sys
 import xbmcgui
 import xbmcplugin
+from urllib.parse import urlencode
 from resources.lib.realhub import Realhub
+
 
 addon_handle = int(sys.argv[1])
 realhub = Realhub()
@@ -19,6 +21,7 @@ def list_categories():
         xbmcplugin.addDirectoryItem(addon_handle, sys.argv[0] + '?' + urlencode(url_params), list_item, isFolder=True)
     xbmcplugin.endOfDirectory(addon_handle)
 
+
 def list_videos():
     url = sys.argv[2]
     videos = realhub.scraper.get_videos(url)
@@ -33,6 +36,7 @@ def list_videos():
 def play_video():
     url = sys.argv[2]
     realhub.player.play(url)
+
 
 mode = args.get('mode', None)
 if mode is None:
