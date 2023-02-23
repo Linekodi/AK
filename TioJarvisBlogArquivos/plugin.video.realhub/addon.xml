@@ -1,5 +1,11 @@
 <addon id="plugin.video.realhub" version="1.0.0" name="RealHub" provider-name="Seu Nome ou Nome da Empresa">
     <requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="plugin.video.youtube" optional="true" />
+  <import addon="script.module.six" />
+  <import addon="script.module.simplejson" />
+  <import addon="script.module.requests"/>
+  <import addon="script.module.beautifulsoup4"/>
     </requires>
     <extension point="xbmc.python.script" library="main.py">
         <provides>video</provides>
