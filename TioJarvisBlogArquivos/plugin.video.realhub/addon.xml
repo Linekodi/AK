@@ -1,26 +1,18 @@
-<addon id="plugin.video.realhub" name="Realhub" version="1.0.0" provider-name="Sua empresa ou nome">
+<addon id="plugin.video.realhub" version="1.0.0" name="Realhub" provider-name="Seu Nome Aqui">
     <requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="plugin.video.youtube" optional="true" />
-  <import addon="script.module.six" />
-  <import addon="script.module.simplejson" />
-  <import addon="script.module.requests"/>
-  <import addon="script.module.beautifulsoup4"/>
+        <import addon="xbmc.python" version="3.0.0"/>
+		<import addon="plugin.video.youtube" optional="true" />
+        <import addon="script.module.six" />
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.requests"/>
+        <import addon="script.module.beautifulsoup4"/>
     </requires>
-    <extension point="xbmc.python.script" library="main.py">
-        <provides>
-            <video>
-                <content type="movies">
-                    <setting label="Habilitar scraping automático" type="bool" default="true" id="auto_scrape"/>
-                </content>
-            </video>
-        </provides>
-    </extension>
-    <metadata>
-        <name>Realhub</name>
-        <summary>Crie um menu de conteúdos raspados do site https://vizer.tv/ com uma variedade de opções de servidores de streaming para cada vídeo selecionado para reprodução.</summary>
-        <description>Realhub é um addon para Kodi que permite criar um menu de conteúdos raspados do site https://vizer.tv/ com uma variedade de opções de servidores de streaming para cada vídeo selecionado para reprodução.</description>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="pt">Realhub - Adicione descrição aqui</summary>
+        <description lang="pt">Realhub - Adicione descrição aqui</description>
+        <platform>all</platform>
         <icon>icon.png</icon>
-        <fanart>fanart.jpg</fanart>
-    </metadata>
+    </extension>
+    <extension point="xbmc.python.module" library="main.py">
+    </extension>
 </addon>
