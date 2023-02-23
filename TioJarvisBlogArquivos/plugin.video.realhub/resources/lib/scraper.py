@@ -1,38 +1,28 @@
-import xbmcgui
-import xbmcplugin
 import requests
 from bs4 import BeautifulSoup
 
-BASE_URL = 'https://vizer.tv'
+class Scraper:
+    def __init__(self):
+        self.base_url = "https://vizer.tv/"
 
-def create_menu():
-    url = BASE_URL + '/lista'
-    html = requests.get(url).content
-    soup = BeautifulSoup(html, 'html.parser')
-    items = soup.select('.movies-list .ml-item')
-    for item in items:
-        title = item.select_one('.ml-mask strong').text
-        thumb = item.select_one('.ml-img img')['src']
-        video_url = item.select_one('.ml-mask')['href']
-        li = xbmcgui.ListItem(label=title)
-        li.setArt({'thumb': thumb})
-        li.setInfo(type='video', infoLabels={'title': title})
-        url = BASE_URL + video_url
-        xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=url, listitem=li)
+    def get_categories(self):
+        categories = []
+        url = self.base_url
+        response = requests.get(url)
+        soup = BeautifulSoup(response.content, "html.parser")
+        for category_link in soup.find_all("a", class_="card-header"):
+            category_url = self.base_url + category_link["href"]
+            category_name = category_link.text.strip()
+            categories.append({"name": category_name, "url": category_url})
+        return categories
 
-    xbmcplugin.setContent(int(sys.argv[1]), 'movies')
-    xbmcplugin.endOfDirectory(int(sys.argv[1]))
-
-def play_video(video_url):
-    html = requests.get(video_url).content
-    soup = BeautifulSoup(html, 'html.parser')
-    sources = soup.select('.mirrors-links li')
-    for source in sources:
-        server_name = source.select_one('.mirror-name').text.strip()
-        link = source.select_one('.mirror-link a')['href']
-        li = xbmcgui.ListItem(label=server_name)
-        li.setProperty('IsPlayable', 'true')
-        xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=link, listitem=li)
-
-    xbmcplugin.setContent(int(sys.argv[1]), 'videos')
-    xbmcplugin.setResolvedUrl(int(sys.argv[1]), True, xbmcgui.ListItem(path=sources[0].select_one('.mirror-link a')['href']))
+    def get_videos(self, category_url):
+        videos = []
+        response = requests.get(category_url)
+        soup = BeautifulSoup(response.content, "html.parser")
+        for video_link in soup.find_all("a", class_="card-link"):
+            video_url = self.base_url + video_link["href"]
+            video_title = video_link.find("h5").text.strip()
+            video_description = video_link.find("p", class_="card-text").text.strip()
+            videos.append({"title": video_title, "url": video_url, "description": video_description})
+        return videos
