@@ -1,7 +1,14 @@
 import xbmcaddon
 import xbmcgui
 import xbmcplugin
+import sys
+import xbmc
 from resources.lib.scraper import *
+
+if len(sys.argv) > 1:
+    addon_handle = int(sys.argv[1])
+else:
+    addon_handle = -1
 
 # Define as URLs de cada tipo de mídia
 MOVIES_URL = 'https://warezcdn.com/listing.php?type=movies'
