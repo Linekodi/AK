@@ -1,7 +1,3 @@
 #EXTM3U
-
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/qAEDvwY.jpg" group-title="ATUALIZAÇÕES ", Ep
+#EXTINF:-1 tvg-logo="http://acsa.ws:80/images/44c50887f33c19d84112fe0b55dcc769.jpg" group-title="Serie | The Last of Us", Ep 5
 https://sinalpublico.com/player3/server19hlb.php?vid=THLSTOFUST01EP05
-
