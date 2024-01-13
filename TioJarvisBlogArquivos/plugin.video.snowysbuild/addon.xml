@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.snowysbuild" name="Snowys Build" version="3.0" provider-name="Snowy">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Snowys Build</summary>
+    <description lang="en">For the latest build news checkout snowyskodi.com or follow me on twitter @snowyskodi</description>
+    <platform>all</platform>
+  </extension>
+</addon>
