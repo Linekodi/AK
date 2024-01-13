@@ -1,0 +1,6 @@
+{
+    "name": "Build Luminarts KODI 17",
+    "version": "2.0",
+    "url": "https://archive.org/download/builds-lumi/Build%20LUMI%20Krypton.zip",
+    "kodi_path": "special://home/addons/builds/lumi"
+}
