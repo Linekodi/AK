@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <preferences>
+    <category label="TioJarvis - Addon Base">
+      <setting id="file_url" label="URL do arquivo de dados" type="string" default=""/>
+	  <setting id="enable_adult_content" label="Habilitar conteúdo adulto" type="bool" default="false"/>
+      <setting id="cache_size" label="Tamanho do cache (MB)" type="int" min="10" max="100" default="50"/>
+      <setting id="default_language" label="Idioma padrão" type="choice">
+            <menuitem label="Inglês" value="en_us"/>
+            <menuitem label="Português do Brasil" value="pt_br"/>
+      </setting>
+    </category>
+  </preferences>
+</root>

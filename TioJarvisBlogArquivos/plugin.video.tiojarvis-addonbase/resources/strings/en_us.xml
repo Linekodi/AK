@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string id="1">TioJarvis - Addon Base</string>
+<string id="2">Movies</string>
+<string id="3">Series</string>
+<string id="4">Settings</string>
+<string id="5">No movies found.</string>
+<string id="6">Error retrieving movie data.</string>
+<string id="7">Feature not yet implemented.</string>
+<string id="8">URL of data file</string>
+<string id="9">Play Movie</string>
+<string id="10">Error processing file line.</string>

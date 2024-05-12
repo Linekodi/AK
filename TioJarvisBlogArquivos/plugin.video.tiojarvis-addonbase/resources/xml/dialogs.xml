@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window id="notification">
+  <heading>TioJarvis - Addon Base</heading>
+  <control type="label">
+    <text>[COLOR yellow]Mensagem de notificação[/COLOR]</text>
+  </control>
+  <button label="OK" modal="true" />
+</window>
+
+<window id="confirmation">
+  <heading>TioJarvis - Addon Base</heading>
+  <control type="label">
+    <text>[COLOR yellow]Mensagem de confirmação[/COLOR]</text>
+  </control>
+  <buttons>
+    <button label="Sim" />
+    <button label="Não" />
+  </buttons>
+</window>
+
+<window id="user_input">
+  <heading>TioJarvis - Addon Base</heading>
+  <control type="edit">
+    <label>Digite o texto:</label>
+  </control>
+  <buttons>
+    <button label="OK" />
+    <button label="Cancelar" modal="true" />
+  </buttons>
+</window>

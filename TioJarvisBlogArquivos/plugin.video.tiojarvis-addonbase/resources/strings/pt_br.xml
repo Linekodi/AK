@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string id="1">TioJarvis - Addon Base</string>
+<string id="2">Filmes</string>
+<string id="3">Séries</string>
+<string id="4">Configurações</string>
+<string id="5">Nenhum filme encontrado.</string>
+<string id="6">Erro ao recuperar dados de filmes.</string>
+<string id="7">Funcionalidade ainda não implementada.</string>
+<string id="8">URL do arquivo de dados</string>
+<string id="9">Reproduzir Filme</string>
+<string id="10">Erro ao processar linha do arquivo.</string>
