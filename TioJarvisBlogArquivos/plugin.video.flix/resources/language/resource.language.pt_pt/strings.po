@@ -1,0 +1,332 @@
+# Kodi Media Center language file
+# Addon Name: Flix
+# Addon id: plugin.video.flix
+# Addon Provider: i96751414
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+msgctxt "#30000"
+msgid "General"
+msgstr "Geral"
+
+msgctxt "#30001"
+msgid "Enable cache"
+msgstr "Ativar cache"
+
+msgctxt "#30002"
+msgid "Cache expiration time (days)"
+msgstr "Tempo de expiração da cache (dias)"
+
+msgctxt "#30003"
+msgid "Language"
+msgstr "Idioma"
+
+msgctxt "#30004"
+msgid "Prefer original titles"
+msgstr "Preferir títulos originais"
+
+msgctxt "#30005"
+msgid "Install YouTube add-on"
+msgstr "Instalar add-on YouTube"
+
+msgctxt "#30006"
+msgid "Providers timeout (seconds)"
+msgstr "Tempo limite dos provedores (segundos)"
+
+msgctxt "#30007"
+msgid "Include adult content"
+msgstr "Incluir conteúdo adulto"
+
+msgctxt "#30008"
+msgid "Providers resolve timeout (seconds)"
+msgstr "Tempo limite de resolução dos provedores (segundos)"
+
+msgctxt "#30009"
+msgid "Username"
+msgstr "Nome de Utilizador"
+
+msgctxt "#30010"
+msgid "Password"
+msgstr "Senha"
+
+msgctxt "#30011"
+msgid "Subtitles folder"
+msgstr "Pasta das legendas"
+
+msgctxt "#30012"
+msgid "Scraper threads number"
+msgstr "Número de threads do scraper"
+
+msgctxt "#30013"
+msgid "Automatically choose media"
+msgstr "Escolher mídia automaticamente"
+
+msgctxt "#30014"
+msgid "Enable search history"
+msgstr "Ativar histórico de pesquisas"
+
+msgctxt "#30015"
+msgid "Clear search history"
+msgstr "Limpar histórico de pesquisas"
+
+msgctxt "#30016"
+msgid "Library"
+msgstr "Biblioteca"
+
+msgctxt "#30017"
+msgid "Library path"
+msgstr "Pasta da biblioteca"
+
+msgctxt "#30018"
+msgid "Add unaired episodes"
+msgstr "Adicionar episódios não emitidos"
+
+msgctxt "#30019"
+msgid "Add special episodes"
+msgstr "Adicionar episódios especiais"
+
+msgctxt "#30020"
+msgid "Update Kodi library after insertion"
+msgstr "Atualizar biblioteca do Kodi após inserção"
+
+msgctxt "#30021"
+msgid "Rebuild library"
+msgstr "Re-construir biblioteca"
+
+msgctxt "#30022"
+msgid "Automatically update library content"
+msgstr "Atualizar conteúdo da biblioteca automaticamente"
+
+msgctxt "#30023"
+msgid "Automatically add new content to library"
+msgstr "Adicionar novo conteúdo na biblioteca automaticamente"
+
+msgctxt "#30024"
+msgid "Number of pages to add"
+msgstr "Número de páginas a adicionar"
+
+msgctxt "#30025"
+msgid "Refresh rate (days)"
+msgstr "Taxa de atualização (dias)"
+
+msgctxt "#30026"
+msgid "Enable progress dialog"
+msgstr "Ativar diálogo de progresso"
+
+msgctxt "#30027"
+msgid "Propagate view type"
+msgstr "Propagar tipo de visualização"
+
+msgctxt "#30028"
+msgid "Show unaired episodes"
+msgstr "Mostrar episódios não emitidos"
+
+msgctxt "#30029"
+msgid "Save last chosen result"
+msgstr "Guardar o último resultado escolhido"
+
+# Navigation
+msgctxt "#30100"
+msgid "Discover"
+msgstr "Explorar"
+
+msgctxt "#30101"
+msgid "Movies"
+msgstr "Filmes"
+
+msgctxt "#30102"
+msgid "TV Shows"
+msgstr "Séries"
+
+msgctxt "#30103"
+msgid "Search"
+msgstr "Procurar"
+
+msgctxt "#30104"
+msgid "People"
+msgstr "Pessoas"
+
+msgctxt "#30105"
+msgid "Next page"
+msgstr "Próxima página"
+
+msgctxt "#30106"
+msgid "By genre"
+msgstr "Por género"
+
+msgctxt "#30107"
+msgid "By year"
+msgstr "Por ano"
+
+msgctxt "#30108"
+msgid "Trailer not found!"
+msgstr "Trailer não encontrado!"
+
+msgctxt "#30109"
+msgid "Providers can't be called"
+msgstr "Provedores não podem ser executados"
+
+msgctxt "#30110"
+msgid "Please wait..."
+msgstr "Por favor, aguarde..."
+
+msgctxt "#30111"
+msgid "Getting results from providers..."
+msgstr "A obter resultados dos provedores..."
+
+msgctxt "#30112"
+msgid "No results found!"
+msgstr "Não foram encontrados resultados!"
+
+msgctxt "#30113"
+msgid "Results found:"
+msgstr "Resultados disponíveis:"
+
+msgctxt "#30114"
+msgid "Trending movies"
+msgstr "Filmes em tendência"
+
+msgctxt "#30115"
+msgid "Popular movies"
+msgstr "Filmes populares"
+
+msgctxt "#30116"
+msgid "Top rated movies"
+msgstr "Filmes mais votados"
+
+msgctxt "#30117"
+msgid "Now playing movies"
+msgstr "Filmes em cartaz"
+
+msgctxt "#30118"
+msgid "Upcoming movies"
+msgstr "Próximas estreias"
+
+msgctxt "#30119"
+msgid "Trending TV shows"
+msgstr "Séries em tendência"
+
+msgctxt "#30120"
+msgid "Popular TV shows"
+msgstr "Séries populares"
+
+msgctxt "#30121"
+msgid "Top rated TV shows"
+msgstr "Séries mais votadas"
+
+msgctxt "#30122"
+msgid "TV shows airing today"
+msgstr "Séries no ar hoje"
+
+msgctxt "#30123"
+msgid "TV shows on the air"
+msgstr "Séries no ar"
+
+msgctxt "#30124"
+msgid "Search by"
+msgstr "Procurar por"
+
+msgctxt "#30125"
+msgid "Movie"
+msgstr "Filme"
+
+msgctxt "#30126"
+msgid "TV Show"
+msgstr "Série"
+
+msgctxt "#30127"
+msgid "Person"
+msgstr "Pessoa"
+
+msgctxt "#30128"
+msgid "All"
+msgstr "Tudo"
+
+msgctxt "#30129"
+msgid "Provider timed out resolving"
+msgstr "O provedor excedeu o tempo limite de resolução"
+
+msgctxt "#30130"
+msgid "New search"
+msgstr "Nova pesquisa"
+
+msgctxt "#30131"
+msgid "Delete entry"
+msgstr "Apagar entrada"
+
+msgctxt "#30132"
+msgid "Search history cleared"
+msgstr "Histórico de pesquisas apagado"
+
+msgctxt "#30133"
+msgid "Add to library"
+msgstr "Adicionar à biblioteca"
+
+msgctxt "#30134"
+msgid "Item added to library"
+msgstr "Item adicionado à biblioteca"
+
+msgctxt "#30135"
+msgid "Library path is not valid"
+msgstr "Pasta da biblioteca inválida"
+
+msgctxt "#30136"
+msgid "Edit entry"
+msgstr "Editar entrada"
+
+msgctxt "#30137"
+msgid "Item previously added to library"
+msgstr "Item adicionado anteriormente"
+
+msgctxt "#30138"
+msgid "Library rebuilt"
+msgstr "Biblioteca re-construida"
+
+msgctxt "#30139"
+msgid "Play"
+msgstr "Reproduzir"
+
+msgctxt "#30140"
+msgid "Adding contents to library"
+msgstr "A adcionar conteúdos na biblioteca"
+
+msgctxt "#30141"
+msgid "Updating library"
+msgstr "A atualizar biblioteca"
+
+msgctxt "#30142"
+msgid "Re-building library"
+msgstr "A reconstruir biblioteca"
+
+msgctxt "#30143"
+msgid "Multiple filters"
+msgstr "Múltiplos filtros"
+
+msgctxt "#30144"
+msgid "Similar movies"
+msgstr "Filmes similares"
+
+msgctxt "#30145"
+msgid "Similar shows"
+msgstr "Séries similares"
+
+msgctxt "#30146"
+msgid "No providers available"
+msgstr "Sem provedores disponíveis"
+
+msgctxt "#30147"
+msgid "Do you want to use the previously chosen result?"
+msgstr "Deseja usar o resultado escolhido anteriormente?"
