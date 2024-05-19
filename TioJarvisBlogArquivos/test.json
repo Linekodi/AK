@@ -1,147 +1,81 @@
-{
-    "items": [
-        {
-            "type": "item",
-            "title": "[B][I][COLOR red]                M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]CLEAR CACHE[/COLOR][/B]",
-            "link": "clear_cache",
-            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/cc.jpg"
-        },
-        {
-            "type": "dir",
-            "title": "[B][I][COLOR red]                M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]WHATS NEW[/COLOR][/B]",
-            "link": "http://www.ezzer-mac.com/mjtest/whatsnew/whatsnew.json",
-            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/wn.jpg",
-            "fanart": ""
-        },
-        {
-            "type": "dir",
-            "name": "[B][I][COLOR red]               M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]TOOLS[/COLOR][/B]",
-            "link": "http://www.ezzer-mac.com/mjtest/tools/tools.json",
-            "animated_thumbnail": "",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/tools.jpg",
-            "animated_fanart": "",
-            "fanart": ""
-        },
-        {
-            "type": "dir",
-            "name": "[B][I][COLOR red]               M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]MOVIE SECTION[/COLOR][/B]",
-            "link": "http://www.ezzer-mac.com/mjtest/movies/moviecat1.json",
-            "animated_thumbnail": "",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/moviesec.jpg",
-            "animated_fanart": "",
-            "fanart": ""
-        },
-        {
-            "type": "dir",
-            "name": "[B][I][COLOR red]                    M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]TV SECTION[/COLOR][/B]",
-            "link": "http://ezzer-mac.com/mjtest/tv/tvsection.json",
-            "animated_thumbnail": "",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/tvsec.jpg",
-            "animated_fanart": "",
-            "fanart": ""
-        },
-        {
-            "type": "dir",
-            "name": "[B][I][COLOR red]                         M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]SPORTS SECTION[/COLOR][/B]",
-            "link": "https://mylostsoulspace.co.uk/Addon-1/Addon/text/sport.xml",
-            "animated_thumbnail": "",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/sportsec.jpg",
-            "animated_fanart": "",
-            "fanart": ""
-        },
-        {
-            "type": "dir",
-            "name": "[B][I][COLOR red]                              M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]INDIVIDUALS[/COLOR][/B]",
-            "link": "http://ezzer-mac.com/Addon/text/individ/individlist.xml",
-            "animated_thumbnail": "",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/individ.jpg",
-            "animated_fanart": "",
-            "fanart": ""
-        },
-        {
-            "type": "dir",
-            "name": "[B][I][COLOR red]                                   M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]RANDOM REQUESTS[/COLOR][/B]",
-            "link": "http://ezzer-mac.com/mjtest/random/randomcat.json",
-            "animated_thumbnail": "",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/rr.jpg",
-            "animated_fanart": "",
-            "fanart": ""
-        },
-        {
-            "type": "dir",
-            "title": "[B][I][COLOR red]                              M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]TMDB SECTION[/COLOR][/B]",
-            "link": "file://scraper_list.json",
-            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/tmdb.jpg",
-            "fanart": ""
-        },
-        {
-            "type": "dir",
-            "name": "[B][I][COLOR red]                         M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]TRAKT SECTION[/COLOR][/B]",
-            "link": "http://ezzer-mac.com/mjtest/trakt/traktlist.json",
-            "animated_thumbnail": "",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/trakt.jpg",
-            "animated_fanart": "",
-            "fanart": ""
-        },
-        {
-            "type": "dir",
-            "name": "[B][I][COLOR red]                    M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]NETWORKS[/COLOR][/B]",
-            "link": "http://ezzer-mac.com/mjtest/network/luckydiplist.xml",
-            "animated_thumbnail": "",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/network.jpg",
-            "animated_fanart": "",
-            "fanart": ""
-        },
-        {
-            "type": "dir",
-            "name": "[B][I][COLOR red]               M.E.T.V[/COLOR][/I][/B] - [B][COLORwhite]KIDS SECTION[/COLOR][/B]",
-            "link": "http://ezzer-mac.com/mjtest/kids/kidslist.json",
-            "animated_thumbnail": "",
-            "thumbnail": "http://ezzer-mac.com/mjtest/art/kidssec.jpg",
-            "animated_fanart": "",
-            "fanart": ""
-        },
-        {
-            "type": "dir",
-            "title": "[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]POPULAR MOVIES[/COLOR][/B]",
-            "link": "tmdb/movie/popular",
-            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/pop.jpg"
-        },
-        {
-            "type": "dir",
-            "title": "[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]NOW PLAYING[/COLOR][/B]",
-            "link": "tmdb/movie/now_playing",
-            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/nowplay.jpg"
-        },
-        {
-            "type": "dir",
-            "title": "[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]TOP RATED[/COLOR][/B]",
-            "link": "tmdb/movie/top_rated",
-            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/toprated.jpg"
-        },
-        {
-            "type": "dir",
-            "title": "[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]TOP RATED - TV[/COLOR][/B]",
-            "link": "tmdb/tv/top_rated",
-            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/topratedtv.jpg"
-        },
-        {
-            "type": "dir",
-            "title": "[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]AIRING TODAY[/COLOR][/B]",
-            "link": "tmdb/tv/on_the_air",
-            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/at.jpg"
-        },
-        {
-            "type": "dir",
-            "title": "[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]TMDB - Search Movies[/COLOR][/B]",
-            "link": "tmdb/search/movie",
-            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/sm.jpg"
-        },
-        {
-            "type": "dir",
-            "title": "[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]TMDB - Search TV[/COLOR][/B]",
-            "link": "tmdb/search/tv",
-            "thumbnail": "http://www.ezzer-mac.com/mjtest/art/stv.jpg"
-        }
-    ]
-}
+# ENTRADA
+
+
+
+
+
+
+<channels> 
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] FREEDDONS  ENTRE [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name> 
+<thumbnail>https://ia801201.us.archive.org/0/items/fanart_202311/3fe2d2af.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA/master/README.md</externallink>
+<fanart>https://ia903402.us.archive.org/34/items/fanart_20210211/fanart.jpg</fanart>
+<info>
+[COLOR deeppink]|[/COLOR] - TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DA GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS. - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels> 
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] AMÉRICA - PROTEÇÃO VEICULAR & RASTREADORES [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/eudesbezerracandido/AMERICA-UPDATE/main/README.md</externallink>
+<fanart>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</fanart>
+<info>
+[COLOR deeppink]|[/COLOR] Na América, entendemos que seu veículo é mais do que apenas um meio de transporte ele é uma parte vital de sua vida diária e um investimento significativo que merece a máxima proteção. Com sede no  Brasil  e atendendo a uma vasta gama de clientes desde 2018, oferecemos soluções completas em proteção veicular e sistemas avançados de rastreamento para garantir que você e seu veículo estejam sempre seguros. [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels> 
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] CONSULTOR - QR CODE WHATSAPP [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia800309.us.archive.org/28/items/qr-code-oficial/QR%20CODE%20OFICIAL.jpg</thumbnail>
+<fanart>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</fanart>
+<info>
+[COLOR deeppink]|[/COLOR] Na América, entendemos que seu veículo é mais do que apenas um meio de transporte ele é uma parte vital de sua vida diária e um investimento significativo que merece a máxima proteção. Com sede no  Brasil  e atendendo a uma vasta gama de clientes desde 2018, oferecemos soluções completas em proteção veicular e sistemas avançados de rastreamento para garantir que você e seu veículo estejam sempre seguros. [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels> 
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] INSTALAÇÃO DE RASTREADORES BASES - BRASIL [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia600303.us.archive.org/18/items/bases-12/BASES%201.jpeg</thumbnail>
+<fanart>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</fanart>
+<info>
+[COLOR deeppink]|[/COLOR] Na América, entendemos que seu veículo é mais do que apenas um meio de transporte ele é uma parte vital de sua vida diária e um investimento significativo que merece a máxima proteção. Com sede no  Brasil  e atendendo a uma vasta gama de clientes desde 2018, oferecemos soluções completas em proteção veicular e sistemas avançados de rastreamento para garantir que você e seu veículo estejam sempre seguros. [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels> 
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] BASES DE ATENDIMENTO PRESENCIAL - NACIONAL [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia600303.us.archive.org/18/items/bases-12/BASES%202.jpeg</thumbnail>
+<fanart>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</fanart>
+<info>
+[COLOR deeppink]|[/COLOR] Na América, entendemos que seu veículo é mais do que apenas um meio de transporte ele é uma parte vital de sua vida diária e um investimento significativo que merece a máxima proteção. Com sede no  Brasil  e atendendo a uma vasta gama de clientes desde 2018, oferecemos soluções completas em proteção veicular e sistemas avançados de rastreamento para garantir que você e seu veículo estejam sempre seguros. [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
