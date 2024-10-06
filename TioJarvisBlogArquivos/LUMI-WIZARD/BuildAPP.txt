@@ -4,7 +4,7 @@ zip="url.to.wizard"
  
 name="Build Luminarts KODI 17"
 version="2.0"
-url="https://tnow-prod-enam.367791ca7abea81096902b345fee7b1f.r2.cloudflarestorage.com/2024-10-06/e1d12854ebc115db587993a0f44cd814/20241006LW1r8A29/IouuQR/Build%20LUMI%20Krypton.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ee862debb448801ab1904792186e2774%2F20241006%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20241006T124732Z&X-Amz-Expires=120&X-Amz-Signature=5097133929ccf0366bb1906c34bb7a2f2f09787efca22a880fa73aae488698a5&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Build%20LUMI%20Krypton.zip%22&x-id=GetObject"
+url="https://luminart.online/indexBuilds.html"
 minor="http://"
 gui="http://"
 kodi="17"
