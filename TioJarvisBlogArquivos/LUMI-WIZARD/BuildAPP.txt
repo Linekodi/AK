@@ -4,7 +4,7 @@ zip="url.to.wizard"
  
 name="Build Luminarts KODI 17"
 version="2.0"
-url="https://master.dl.sourceforge.net/project/luminart/Build%20LUMI%20Krypton.zip?viasf=1"
+url="https://www.dropbox.com/scl/fi/t65hu2fbn4p38bgfhtxrw/Build-LUMI-Krypton.zip?rlkey=dudnh0ukalkesthur6dv6y7vj&st=9g1d979y&dl=1"
 minor="http://"
 gui="http://"
 kodi="17"
