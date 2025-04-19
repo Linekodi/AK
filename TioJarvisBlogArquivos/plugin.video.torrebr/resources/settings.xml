@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <category label="Configurações da API">
+    <setting
+      id="tmdb_api_key"
+      type="text"
+      label="Chave da API TMDb (obrigatória)"
+      default=""
+      secure="true"
+    />
+    <setting
+      id="realdebrid_token"
+      type="text"
+      label="Token do Real-Debrid (obrigatório)"
+      default=""
+      secure="true"
+    />
+  </category>
+
+  <category label="Opções de Busca">
+    <setting
+      id="max_results"
+      type="number"
+      label="Máximo de Resultados por Página"
+      default="20"
+      range="10,100"
+    />
+    <setting
+      id="auto_resolve"
+      type="bool"
+      label="Resolução Automática de Links"
+      default="true"
+    />
+  </category>
+</settings>
