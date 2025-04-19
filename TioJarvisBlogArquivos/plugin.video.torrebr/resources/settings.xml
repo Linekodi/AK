@@ -32,4 +32,19 @@
       default="true"
     />
   </category>
+  <category label="Provedores">
+    <setting
+        id="enable_yts"
+        type="bool"
+        label="Ativar YTS"
+        default="true"
+    />
+    <setting
+        id="enable_piratebay"
+        type="bool"
+        label="Ativar The Pirate Bay"
+        default="true"
+    />
+    <!-- Adicione para cada provedor -->
+</category>
 </settings>

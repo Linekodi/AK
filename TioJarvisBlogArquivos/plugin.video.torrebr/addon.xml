@@ -2,7 +2,7 @@
 <addon
   id="plugin.video.torrebr"
   name="TorreBR"
-  version="1.0.1"
+  version="1.0.2"
   provider-name="SeuNome">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -17,6 +17,9 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="pt">Addon para streaming via TMDb e Real-Debrid</summary>
+    <description lang="pt">Acesse filmes populares, séries e resolva torrents para streaming direto.</description>
+    <platform>all</platform>
+    <license>MIT</license>
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>

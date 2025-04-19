@@ -1,121 +1,131 @@
 import re
-import time
+import xbmc
 import requests
-import xbmcgui
-from urllib.parse import quote
+from urllib.parse import quote, unquote
 from resources.lib.utils import logger
 
 class TorrentProviders:
     def __init__(self):
         self.session = requests.Session()
-        self.headers = {
-            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        }
+        self.headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+        self.timeout = 30
+        self.retries = 2   # Número de tentativas
 
     def search_torrents(self, title, media_type='movie'):
-        """Busca torrents em múltiplos provedores públicos"""
         results = []
         query = quote(title)
 
-        # YTS (API)
-        try:
-            results += self._yts_api(query)
-        except Exception as e:
-            logger(f"Erro no YTS: {str(e)}", xbmc.LOGERROR)
+        # Novos provedores
+        results += self._bludv(query)
+        results += self._filmestorrenttv(query)
+        results += self._filmetorrent(query)
+        results += self._torrentplus(query)
 
-        # RARBG (API)
-        try:
-            results += self._rarbg_api(query, media_type)
-        except Exception as e:
-            logger(f"Erro no RARBG: {str(e)}", xbmc.LOGERROR)
-
-        # 1337x (Scraping simplificado)
-        try:
-            results += self._1337x_scrape(query)
-        except Exception as e:
-            logger(f"Erro no 1337x: {str(e)}", xbmc.LOGERROR)
-
-        # Ordena por seeders (maior primeiro)
         return sorted(results, key=lambda x: x.get('seeders', 0), reverse=True)
 
-    # ==================== YTS (API Oficial) ====================
-    def _yts_api(self, query):
-        url = f"https://yts.mx/api/v2/list_movies.json?query_term={query}&sort_by=seeds"
-        response = self.session.get(url, headers=self.headers, timeout=10)
-        data = response.json()
+    # ==================== BluDV ====================
+    def _bludv(self, query):
+        try:
+            url = f"https://bludv.xyz/?s={query}"
+            response = self.session.get(url, headers=self.headers, timeout=self.timeout)
+            html = response.text
 
-        torrents = []
-        for movie in data.get('data', {}).get('movies', []):
-            for torrent in movie.get('torrents', []):
-                torrents.append({
-                    'name': f"{movie['title']} [YTS] [Quality: {torrent['quality']}]",
-                    'size': torrent['size'],
-                    'seeders': torrent['seeds'],
-                    'magnet': self._convert_to_magnet(torrent['hash']),
-                    'provider': 'YTS'
-                })
-        return torrents
+            pattern = r'<article.*?href="(https://bludv.xyz/[^"]+)".*?<h2 class="entry-title">([^<]+)</h2>.*?<span class="size">([^<]+)</span>'
+            matches = re.findall(pattern, html, re.DOTALL)
 
-    # ==================== RARBG (API com Token) ====================
-    def _rarbg_api(self, query, media_type):
-        token = self._get_rarbg_token()
-        if not token:
+            return [{
+                'name': unquote(match[1].strip()),
+                'magnet': self._extract_bludv_magnet(match[0]),
+                'size': match[2].strip(),
+                'provider': 'BluDV',
+                'seeders': 100  # Valor padrão
+            } for match in matches[:10]]
+        except Exception as e:
+            logger(f"Erro no BluDV: {str(e)}", xbmc.LOGERROR)
             return []
 
-        # Tipos de conteúdo compatíveis
-        category = {
-            'movie': 'movies',
-            'series': 'tv'
-        }.get(media_type, 'movies')
-
-        url = f"https://torrentapi.org/pubapi_v2.php?mode=search&search_string={query}&category=44;18&sort=seeders&format=json_extended&token={token}"
-        time.sleep(2)  # Limite de 1 requisição/2s
-        response = self.session.get(url, headers=self.headers, timeout=15)
-        data = response.json()
-
-        torrents = []
-        for item in data.get('torrent_results', []):
-            torrents.append({
-                'name': f"{item['title']} [RARBG]",
-                'size': f"{round(item['size'] / (1024**3), 1)} GB",
-                'seeders': item['seeders'],
-                'magnet': item['download'],
-                'provider': 'RARBG'
-            })
-        return torrents
-
-    def _get_rarbg_token(self):
+    def _extract_bludv_magnet(self, url):
         try:
-            response = self.session.get(
-                "https://torrentapi.org/pubapi_v2.php?get_token=get_token&app_id=TorreBR",
-                headers=self.headers,
-                timeout=10
-            )
-            return response.json().get('token')
+            response = self.session.get(url, timeout=self.timeout)
+            return re.search(r'href="(magnet:\?[^"]+)"', response.text).group(1)
         except:
-            return None
+            return ''
 
-    # ==================== 1337x (Scraping Básico) ====================
-    def _1337x_scrape(self, query):
-        url = f"https://www.1337x.to/search/{query}/1/"
-        response = self.session.get(url, headers=self.headers, timeout=15)
-        html = response.text
+    # ==================== Filmes Torrent TV ====================
+    def _filmestorrenttv(self, query):
+        try:
+            url = f"https://filmestorrenttv.net/?s={query}"
+            response = self.session.get(url, headers=self.headers, timeout=self.timeout)
+            html = response.text
 
-        # Extrai magnet links via regex (simplificado)
-        magnets = re.findall(r'href="(magnet:\?[^"]+)"', html)
-        names = re.findall(r'class="name">([^<]+)<', html)[:10]  # Limita a 10 resultados
+            pattern = r'<div class="item">.*?href="([^"]+)".*?<span class="ttx">([^<]+)</span>.*?<span class="calidad2">([^<]+)</span>'
+            matches = re.findall(pattern, html, re.DOTALL)
 
-        torrents = []
-        for name, magnet in zip(names, magnets):
-            torrents.append({
-                'name': f"{name} [1337x]",
+            return [{
+                'name': f"{unquote(match[1])} [{match[2]}]",
+                'magnet': self._extract_generic_magnet(match[0]),
                 'size': 'N/A',
-                'seeders': 0,
-                'magnet': magnet,
-                'provider': '1337x'
-            })
-        return torrents
+                'provider': 'FilmesTorrentTV',
+                'seeders': 50
+            } for match in matches[:8]]
+        except Exception as e:
+            logger(f"Erro no FilmesTorrentTV: {str(e)}", xbmc.LOGERROR)
+            return []
 
-    @staticmethod
-    def _convert_to_magnet(hash):
-        return f'magnet:?xt=urn:btih:{hash}&dn=YTS+Torrent'
+    # ==================== Filme Torrent ====================
+    def _filmetorrent(self, query):
+        try:
+            url = f"https://filmetorrent.org/?s={query}"
+            response = self.session.get(url, headers=self.headers, timeout=self.timeout)
+            html = response.text
+
+            pattern = r'<div class="post">.*?href="([^"]+)".*?<h2>([^<]+)</h2>.*?<span>Size:</span>([^<]+)<'
+            matches = re.findall(pattern, html, re.DOTALL)
+
+            return [{
+                'name': unquote(match[1].strip()),
+                'magnet': self._extract_generic_magnet(match[0]),
+                'size': match[2].strip(),
+                'provider': 'FilmeTorrent',
+                'seeders': 75
+            } for match in matches[:10]]
+        except Exception as e:
+            logger(f"Erro no FilmeTorrent: {str(e)}", xbmc.LOGERROR)
+            return []
+
+    # ==================== TorrentPlus ====================
+    def _torrentplus(self, query):
+        try:
+            url = f"https://torrentplus.org/?s={query}"
+            response = self.session.get(url, headers=self.headers, timeout=self.timeout)
+            html = response.text
+
+            pattern = r'<li class="list-item">.*?href="([^"]+)".*?<h3>([^<]+)</h3>.*?<span class="size">([^<]+)</span>'
+            matches = re.findall(pattern, html, re.DOTALL)
+
+            return [{
+                'name': unquote(match[1].strip()),
+                'magnet': self._extract_generic_magnet(match[0]),
+                'size': match[2].strip(),
+                'provider': 'TorrentPlus',
+                'seeders': self._parse_seeders(match[1])
+            } for match in matches[:12]]
+        except Exception as e:
+            logger(f"Erro no TorrentPlus: {str(e)}", xbmc.LOGERROR)
+            return []
+
+    def _extract_generic_magnet(self, url):
+        try:
+            response = self.session.get(url, timeout=self.timeout)
+            magnet = re.search(r'href="(magnet:\?[^"]+)"', response.text)
+            return magnet.group(1) if magnet else ''
+        except:
+            return ''
+
+    def _parse_seeders(self, title):
+        if any(s in title.lower() for s in ['4k', '2160p']):
+            return 150
+        elif any(s in title.lower() for s in ['1080p', 'fhd']):
+            return 100
+        else:
+            return 50
